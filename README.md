@@ -31,5 +31,6 @@ Now go to the administration panel of your Shopware installation and install the
 The plugin is published under MIT. Please see [License File](LICENSE) for more information.
 
 ### Used
-[jquery.json-editor](https://github.com/dblate/jquery.json-editor) by [dblate!](https://github.com/dblate)
-[Lightweight Backend Module Example!](https://github.com/shopwareLabs/SwagLightweightModule) - [Doc!](https://developers.shopware.com/developers-guide/lightweight-backend-modules/)
+[jquery.json-editor](https://github.com/dblate/jquery.json-editor) by [dblate](https://github.com/dblate)
+
+[Lightweight Backend Module Example](https://github.com/shopwareLabs/SwagLightweightModule) - [Doc](https://developers.shopware.com/developers-guide/lightweight-backend-modules/)
